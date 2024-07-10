@@ -1,4 +1,10 @@
- 
+how to play: use WASD or arrows to move around and press space or up arrow to jump 
+press x or b on the controller to fire a godzilla to beat up the enemies
+collect coins
+beat the timer!
+
+
+
 
 
 > Open this page at [https://ev212.github.io/platformer-game/](https://ev212.github.io/platformer-game/)
